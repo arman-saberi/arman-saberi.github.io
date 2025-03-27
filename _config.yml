@@ -52,6 +52,6 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-lang: fa
+lang: fa-IR
 rtl: true
 html_dir: rtl
