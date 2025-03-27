@@ -21,8 +21,7 @@
 title: لینپا
 email: arman_saberi@ymail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  دنیای آزاد
-اینجا هر آن چیزی که به ذهنم برسه، نوشته میشه
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lastrada1
