@@ -53,3 +53,5 @@ plugins:
 #   - vendor/ruby/
 
 lang: fa
+rtl: true
+html_dir: rtl
